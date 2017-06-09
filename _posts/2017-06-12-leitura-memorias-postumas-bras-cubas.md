@@ -4,6 +4,7 @@ title:      Memórias Póstumas de Brás Cubas (Machado de Assis)
 date:       2017-06-12
 summary:    Sugestão de leitura do livro Memórias Póstumas de Brás Cubas de Machado de Assis.
 categories: livro
+published:  false
 ---
 
 Sugestão de Leitura
