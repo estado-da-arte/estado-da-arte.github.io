@@ -4,7 +4,7 @@ title:      A Mão e a Luva (Machado de Assis)
 date:       2017-07-17
 summary:    Sugestão de leitura do livro A Mão e a Luva de Machado de Assis.
 categories: livro
-published:  true
+published:  false
 ---
 
 Sugestão de Leitura

@@ -4,7 +4,7 @@ title:      Helena (Machado de Assis)
 date:       2017-06-19
 summary:    Sugestão de leitura do livro Helena de Machado de Assis.
 categories: livro
-published:  true
+published:  false
 ---
 
 Sugestão de Leitura
