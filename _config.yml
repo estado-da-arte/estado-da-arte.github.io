@@ -14,10 +14,10 @@ description: Site.
 baseurl: ''
 url: http://estadodaarte.com
 date_format: "%b %-d, %Y"
-google_verification:
+google_verification: 
 google_analytics: UA-55429310-3
-google_tag_manager:
-bing_verification:
+google_tag_manager: 
+bing_verification: 
 animated: true
 show_related_posts: true
 show_post_footers: false
@@ -28,27 +28,27 @@ extended_fonts: true
 enable_anchorjs: false
 post_preview_image: false
 fb_page: false
-fb_page_id:
-disqus_shortname:
-txtpen_sitename:
-facebook_comments:
-facebook_appid:
+fb_page_id: 
+disqus_shortname: 
+txtpen_sitename: 
+facebook_comments: 
+facebook_appid: 
 facebook_comments_number: 10
 github_username: estado-da-arte
-bitbucket_username:
-stackoverflow_id:
-twitter_username:
-skype_username:
-steam_nickname:
-google_plus_id:
-linkedin_username:
-angellist_username:
-medium_id:
-bitcoin_url:
-paypal_url:
-flattr_button:
-telegram_username:
-vk_id:
+bitbucket_username: 
+stackoverflow_id: 
+twitter_username: 
+skype_username: 
+steam_nickname: 
+google_plus_id: 
+linkedin_username: 
+angellist_username: 
+medium_id: 
+bitcoin_url: 
+paypal_url: 
+flattr_button: 
+telegram_username: 
+vk_id: 
 show_sharing_icons: false
 share_facebook: false
 share_twitter: false
@@ -105,7 +105,7 @@ gems:
 - jekyll-paginate
 - jekyll-sitemap
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-  - script
+- Gemfile
+- Gemfile.lock
+- vendor
+- script
