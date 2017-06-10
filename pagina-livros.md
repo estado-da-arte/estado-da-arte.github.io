@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Livros
-permalink: /livros/
+permalink: "/livros/"
+layout: page
 tags: page livros sugestões leitura
 ---
 

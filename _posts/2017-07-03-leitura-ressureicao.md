@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      Ressureição (Machado de Assis)
-date:       2017-07-03
-summary:    Sugestão de leitura do livro Ressureição de Machado de Assis.
-categories: livro
-published:  false
+title: Ressureição (Machado de Assis)
+date: 2017-07-03 00:00:00 Z
+published: false
+categories:
+- livro
+layout: post
+summary: Sugestão de leitura do livro Ressureição de Machado de Assis.
 ---
 
 Sugestão de Leitura

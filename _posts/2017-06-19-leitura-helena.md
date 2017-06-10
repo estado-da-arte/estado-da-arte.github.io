@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      Helena (Machado de Assis)
-date:       2017-06-19
-summary:    Sugestão de leitura do livro Helena de Machado de Assis.
-categories: livro
-published:  false
+title: Helena (Machado de Assis)
+date: 2017-06-19 00:00:00 Z
+published: false
+categories:
+- livro
+layout: post
+summary: Sugestão de leitura do livro Helena de Machado de Assis.
 ---
 
 Sugestão de Leitura
