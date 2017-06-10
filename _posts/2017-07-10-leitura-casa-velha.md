@@ -1,10 +1,11 @@
 ---
-layout:     post
-title:      Casa Velha (Machado de Assis)
-date:       2017-07-10
-summary:    Sugestão de leitura do livro Casa Velha de Machado de Assis.
-categories: livro
-published:  false
+title: Casa Velha (Machado de Assis)
+date: 2017-07-10 00:00:00 Z
+published: false
+categories:
+- livro
+layout: post
+summary: Sugestão de leitura do livro Casa Velha de Machado de Assis.
 ---
 
 Sugestão de Leitura
