@@ -126,3 +126,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - script
