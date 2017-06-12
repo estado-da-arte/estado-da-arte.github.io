@@ -1,10 +1,11 @@
 ---
 title: Dom Casmurro (Machado de Assis)
-date: 2017-06-09 00:00:00 Z
-categories:
-- livro
+date: 2017-06-09 06:00:00 Z
+published: true
+categories: livro
 layout: post
 summary: Sugestão de leitura do livro Dom Casmurro de Machado de Assis.
+tags: literatura domínio público
 ---
 
 Sugestão de Leitura

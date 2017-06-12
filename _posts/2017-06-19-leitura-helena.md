@@ -1,11 +1,11 @@
 ---
 title: Helena (Machado de Assis)
-date: 2017-06-19 00:00:00 Z
-published: false
-categories:
-- livro
+date: 2017-06-19 06:00:00 Z
+published: true
+categories: livro
 layout: post
 summary: Sugestão de leitura do livro Helena de Machado de Assis.
+tags: literatura domínio público
 ---
 
 Sugestão de Leitura
