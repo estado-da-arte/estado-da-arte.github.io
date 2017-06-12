@@ -1,7 +1,7 @@
 ---
 title: Memórias Póstumas de Brás Cubas (Machado de Assis)
 date: 2017-06-12 00:00:00 Z
-published: false
+published: true
 categories:
 - livro
 layout: post
