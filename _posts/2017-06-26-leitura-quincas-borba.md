@@ -1,9 +1,8 @@
 ---
 title: Quincas Borba (Machado de Assis)
-date: 2017-06-26 00:00:00 Z
-published: false
-categories:
-- livro
+date: 2017-06-26 09:00:00 Z
+published: true
+categories: livro
 layout: post
 summary: Sugestão de leitura do livro Quincas Borba de Machado de Assis.
 ---
