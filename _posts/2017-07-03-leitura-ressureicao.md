@@ -1,7 +1,7 @@
 ---
 title: Ressureição (Machado de Assis)
-date: 2017-07-03 00:00:00 Z
-published: false
+date: 2017-07-03 08:00:00 Z
+published: true
 categories:
 - livro
 layout: post
