@@ -1,9 +1,8 @@
 ---
 title: Iaiá Garcia (Machado de Assis)
-date: 2017-07-24 00:00:00 Z
-published: false
-categories:
-- livro
+date: 2017-07-24 14:00:00 Z
+published: true
+categories: livro
 layout: post
 summary: Sugestão de leitura do livro Iaiá Garcia de Machado de Assis.
 ---
