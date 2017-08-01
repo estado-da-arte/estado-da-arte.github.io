@@ -1,9 +1,8 @@
 ---
 title: Memorial de Aires (Machado de Assis)
-date: 2017-07-31 00:00:00 Z
-published: false
-categories:
-- livro
+date: 2017-07-31 14:00:00 Z
+published: true
+categories: livro
 layout: post
 summary: Sugestão de leitura do livro Memorial de Aires de Machado de Assis.
 ---
