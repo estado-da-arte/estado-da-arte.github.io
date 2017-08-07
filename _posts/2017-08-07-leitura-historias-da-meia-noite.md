@@ -1,9 +1,8 @@
 ---
 title: Histórias da Meia-Noite (Machado de Assis)
-date: 2017-08-07 00:00:00 Z
-published: false
-categories:
-- livro
+date: 2017-08-07 11:00:00 Z
+published: true
+categories: livro
 layout: post
 summary: Sugestão de leitura do livro Histórias da Meia-Noite de Machado de Assis.
 ---
