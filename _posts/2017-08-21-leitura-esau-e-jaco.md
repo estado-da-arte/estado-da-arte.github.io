@@ -1,9 +1,8 @@
 ---
 title: Esaú e Jacó (Machado de Assis)
-date: 2017-08-21 00:00:00 Z
-published: false
-categories:
-- livro
+date: 2017-08-21 10:25:00 Z
+published: true
+categories: livro
 layout: post
 summary: Sugestão de leitura do livro Esaú e Jacó de Machado de Assis.
 ---
